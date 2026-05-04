@@ -29,6 +29,9 @@
 #include <vector>
 #include <map>
 
+//   > Changes for newer C++ versions:
+#include <cstdint>
+
 namespace livox {
 namespace lidar {
 
