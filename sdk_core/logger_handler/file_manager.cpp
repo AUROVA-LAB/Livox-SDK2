@@ -33,6 +33,10 @@
   #include <unistd.h>
 #endif
 
+// Changes for newer C++ versions:
+#include <stdint.h>
+#include <stdio.h>
+
 #include <algorithm>
 #include <string>
 #include <map>
