@@ -33,6 +33,10 @@
   #include <unistd.h>
 #endif
 
+//  > Para evitar errores en C++ moderno:
+#include <stdint.h>
+#include <stdio.h>
+
 #include <algorithm>
 #include <string>
 #include <map>
